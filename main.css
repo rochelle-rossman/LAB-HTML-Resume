@@ -1,0 +1,24 @@
+body {
+  background-color: tomato
+}
+
+h1 {
+  color:bisque;
+}
+
+.trader-joes {
+  color:antiquewhite;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  border: solid yellow 10px;
+  margin: 25px;
+  padding: 10px;
+}
+
+.calypso-cafe {
+  color: antiquewhite;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  border: solid yellow 10px;
+  margin: 25px;
+  padding: 10px;
+
+}
